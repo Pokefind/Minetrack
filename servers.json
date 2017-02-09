@@ -10,5 +10,11 @@
 		"ip": "play.hivemc.com",
 		"type": "PC",
 		"category": "minigames"
+	},
+	{
+		"name": "PokeFind",
+		"ip": "play.pokefind.co",
+		"type": "PC",
+		"category": "pokemon-mmo"
 	}
 ]
